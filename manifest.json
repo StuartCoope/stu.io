@@ -1,0 +1,11 @@
+{
+  "name": "DripMate",
+  "short_name": "DripMate",
+  "description": "Guided pourover coffee brewing with Bookoo Themis scale",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5E6D3",
+  "theme_color": "#8B4513",
+  "icons": []
+}
+
