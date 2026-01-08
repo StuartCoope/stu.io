@@ -1,6 +1,6 @@
 {
-  "name": "DripMate",
-  "short_name": "DripMate",
+  "name": "Brew Mate",
+  "short_name": "Brew Mate",
   "description": "Guided pourover coffee brewing with Bookoo Themis scale",
   "start_url": "/",
   "display": "standalone",
